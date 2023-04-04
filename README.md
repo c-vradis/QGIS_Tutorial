@@ -23,3 +23,6 @@
 
 # Άδεια χρήσης
 - Αυτό το έργο διατίθεται με άδεια [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+# Συντελεστές
+- Χριστόφορος Βραδής, υποψήφιος διδάκτορας Τμήματος Γεωγραφίας Χαροκοπείου Πανεπιστημίου
