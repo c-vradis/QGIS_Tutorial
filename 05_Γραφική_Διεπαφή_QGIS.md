@@ -1,17 +1,3 @@
----
-marp: true
-theme: default
-paginate: true
----
-<style>
-  section {
-    background-color: white;
-  }
-:root {
-    font-size: 18px;
-  }
-</style>
-
 # Η Γραφική Διεπαφή Χρήστη (GUI) του QGIS
 
 ---
